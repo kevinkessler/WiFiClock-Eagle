@@ -1,0 +1,20 @@
+# Backup Files
+*.s#?
+*.b#?
+*.epf
+*.scr
+*.CFG
+*.dri
+*.GBL
+*.GBO
+*.GBS
+*.GML
+*.gpi
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.TXT
+*.CNC
+*.BAK
+*.INI
